@@ -2,7 +2,7 @@
 
 Project created to learn React
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fc6dfaaa-334c-4c16-a0df-7732b7deb85a/deploy-status)](https://app.netlify.com/sites/veterinary-jaimenunezl/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3f069903-d249-45f5-ae3a-6d8c1be9bb7b/deploy-status)](https://app.netlify.com/sites/weather-jaimenunezl/deploys)
 
 ## Requirement
 
